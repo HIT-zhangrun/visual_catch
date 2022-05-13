@@ -1,0 +1,11 @@
+../caculate_angle/caculate_angle.c:141:6:catch_release	0	static
+../caculate_angle/caculate_angle.c:148:6:catch	0	static
+../caculate_angle/caculate_angle.c:155:6:output	24	static
+../caculate_angle/caculate_angle.c:183:8:abs_small	40	static
+../caculate_angle/caculate_angle.c:51:6:caculate_position	128	static
+../caculate_angle/caculate_angle.c:11:9:control	72	static
+../caculate_angle/caculate_angle.c:116:9:catch_reset	24	static
+../caculate_angle/caculate_angle.c:203:6:HAL_UART_RxCpltCallback	4	static
+../caculate_angle/caculate_angle.c:240:6:catch_first_color_to_left	48	static
+../caculate_angle/caculate_angle.c:275:6:catch_second_color_to_right	48	static
+../caculate_angle/caculate_angle.c:223:6:wait_for_catch	8	static
